@@ -1,0 +1,31 @@
+.TableTr {
+    vertical-align: top;
+}
+
+.TableTd {
+    text-align: center;
+    border-right: 0.25px solid #6B7074;
+    border-bottom: 0.25px solid #6B7074;
+    white-space: nowrap;
+    overflow-x: auto;
+    max-width: 150px;
+    padding: 3px 5px;
+}
+
+.TableTd::-webkit-scrollbar {
+    height: 0;
+}
+
+.TableTd:last-child {
+    border-right: 0;
+}
+
+.BtnDelete {
+    outline: none;
+    border: none;
+    background: #FFFFFF;
+    cursor: pointer;
+    vertical-align: top;
+    display: flex;
+    margin: 0 auto;
+}

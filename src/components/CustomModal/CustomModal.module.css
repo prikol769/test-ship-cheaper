@@ -1,0 +1,18 @@
+.Modal {
+    padding: 30px 30px 25px 20px;
+    background: #FFFFFF;
+    box-shadow: 0 4px 34px rgba(0, 0, 0, 0.24);
+    width: 365px;
+    height: 321px;
+    position: relative;
+}
+
+.BtnClose {
+    outline: none;
+    border: none;
+    background: #FFFFFF;
+    cursor: pointer;
+    position: absolute;
+    right: 16px;
+    top: 16px;
+}

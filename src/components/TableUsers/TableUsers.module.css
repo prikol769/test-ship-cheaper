@@ -1,0 +1,22 @@
+.TableUsersWrapper {
+    border: 1px solid #376B8D;
+    min-height: calc(100vh - 84px);
+    margin-top: 20px;
+    overflow-x: auto;
+}
+
+.TableUsers {
+    border-spacing: 0;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.TableTh {
+    color: #FFFFFF;
+    font-weight: 400;
+    padding: 3px 0;
+    border: 0.25px solid #6B7074;
+    min-width: 58px;
+}
+
+

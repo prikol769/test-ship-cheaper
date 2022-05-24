@@ -1,0 +1,20 @@
+.InputWrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Label {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #2C2C2C;
+}
+
+.Input {
+    background: #FFFFFF;
+    border: 0.25px solid #6B7074;
+    height: 22px;
+    width: 236px;
+    margin-top: 3px;
+}

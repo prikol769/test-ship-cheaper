@@ -1,0 +1,13 @@
+.TitleModal {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 38px;
+    color: #2C2C2C;
+    margin-bottom: 30px;
+}
+
+.BtnContainer {
+    position: absolute;
+    bottom: 20px;
+    right: 30px;
+}
